@@ -18,7 +18,7 @@ I build fast, accessible web applications, from polished interfaces to the APIs,
 
 ## About
 
-I have 3+ years of experience shipping production web applications. Most of my work lives in the **React, Next.js and TypeScript** ecosystem, where I care about component architecture, performance and accessibility. Beyond the UI, I design PostgreSQL data models, build backend services, and deploy and maintain them on my own servers.
+I have 5+ years of experience shipping production web applications. Most of my work lives in the **React, Next.js and TypeScript** ecosystem, where I care about component architecture, performance and accessibility. Beyond the UI, I design PostgreSQL data models, build backend services, and deploy and maintain them on my own servers.
 
 - **Frontend:** reusable component systems, state management, responsive layouts, performance and accessibility
 - **Backend:** server-side logic and APIs with Next.js and Django, relational data modeling in PostgreSQL
